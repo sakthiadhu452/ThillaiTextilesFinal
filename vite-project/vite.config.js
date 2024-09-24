@@ -6,8 +6,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   server: {
-    host: '13.60.50.147',  // Replace with your EC2 instance public IP
-    port: 5173,            // Change the port to something higher than 1024
-    strictPort: true       // Ensure the port is strictly used
+    host: '0.0.0.0',  // Bind to all interfaces
+    port: 5173,        // Specify the port
+    strictPort: true
   }
 })
