@@ -37,7 +37,7 @@ const Contactus = () => {
 
           {/* Company Address */}
           <div className="footer-section company-address">
-            <CiLocationOn />
+            <h4>ADDRESS</h4>
             <a>
               140/70,No.2<br />
               Kumaran Street<br />

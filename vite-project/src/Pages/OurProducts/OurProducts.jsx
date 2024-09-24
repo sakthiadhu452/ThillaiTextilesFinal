@@ -48,15 +48,24 @@ function OurProducts() {
               <a href="#">Home</a>
               <a href="#">About</a>
               <a href="#" className="active">Hot</a>
-              <div className="varieties-dropdown">
+                <div className="varieties-dropdown">
                 <a href="#">Varieties</a>
                 <div className="dropdown-content">
                   <a href="#">Designer Saree</a>
                   <a href="#">Banarasi Saree</a>
                   <a href="#">Silk Saree</a>
                   <a href="#">Cotton Saree</a>
+                  <a href="#">Chiffon Saree</a>
+                  <a href="#">Georgette Saree</a>
+                  <a href="#">Kanchipuram Saree</a>
+                  <a href="#">Paithani Saree</a>
+                  <a href="#">Tussar Saree</a>
+                  <a href="#">Linen Saree</a>
+                  <a href="#">Chanderi Saree</a>
+                  <a href="#">Patola Saree</a>
                 </div>
               </div>
+
             </nav>
         </div>
         <div className="ProductsBg">
