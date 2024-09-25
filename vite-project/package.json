@@ -174,6 +174,7 @@
     "react-refresh": "^0.14.2",
     "react-router": "^6.26.2",
     "react-router-dom": "^6.26.2",
+    "react-scroll-parallax": "^3.4.5",
     "react-slick": "^0.30.2",
     "reflect.getprototypeof": "^1.0.6",
     "regexp.prototype.flags": "^1.5.2",
@@ -229,7 +230,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "preview": "vite preview"
   },
   "author": "",
   "license": "ISC"
